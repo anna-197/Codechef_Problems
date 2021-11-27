@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int n;
+	cin>>n;
+	int result=(n*n)/2;
+	cout<<result<<endl;
+	return 0;
+}
